@@ -1,0 +1,1403 @@
+[
+  {
+    "title": "XR Development for Beginners: Quizzes",
+    "complete": "Congratulations, you completed the quiz!",
+    "error": "Sorry, try again",
+    "quizzes": [
+      {
+        "id": 0,
+        "title": "Lesson 1: What is XR?",
+        "quiz": [
+          {
+            "questionText": "What kind of devices can run Augmented Reality experiences?",
+            "answerOptions": [
+              {
+                "answerText": "Only smartphones and tablets.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Smartphones, tablets, smart glasses, computers, headsets and more.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Only headsets.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is a requirement for a GPS based application?",
+            "answerOptions": [
+              {
+                "answerText": "Access to the device's global positioning system tools.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A map application must be installed.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A marker is required to display virtual objects.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is a use case for XR?",
+            "answerOptions": [
+              {
+                "answerText": "Training and Development",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Productivity and Collaboration",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Design and Prototyping",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "All the above",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Lesson 2: Devices",
+        "quiz": [
+          {
+            "questionText": "XR devices are only available as a headset.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "What is Haptic Technology?",
+            "answerOptions": [
+              {
+                "answerText": "Any technology that can create an experience of touch by applying forces, vibrations or motions to the user.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Any technology that allows the user to see 3D models.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Any technology that allows the user to be immersed in an application.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which is a benefit of a tethered device?",
+            "answerOptions": [
+              {
+                "answerText": "Tethered devices provide better computing power regardless of the device its connected to.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The cable connection helps reduce latency between what you do physically and movement in the virtual world.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Tethered devices enable you to wirelessly experience apps.",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lesson 3: Choosing a Device and Reality",
+        "quiz": [
+          {
+            "questionText": "In the scenario of a fully immersive solution, which reality is a better choice?",
+            "answerOptions": [
+              {
+                "answerText": "Either Augmented or Virtual Reality",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Virtual Reality",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Augmented Reality",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "In the scenario of an app that overlays digital artwork on top of a mural in your physical environment, which reality is a better choice?",
+            "answerOptions": [
+              {
+                "answerText": "Either Augmented or Virtual Reality",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Virtual Reality",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Augmented Reality",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "In the scenario of an app that has multi-user support, which reality is a better choice?",
+            "answerOptions": [
+              {
+                "answerText": "Either Augmented or Virtual Reality",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Virtual Reality",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Augmented Reality",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Lesson 4: Comfort",
+        "quiz": [
+          {
+            "questionText": "Which of the following statements best defines the relationship between vergence and accommodation?",
+            "answerOptions": [
+              {
+                "answerText": "Vergence allows our eyes to send information to the brain while accommodation helps us understand it.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Vergence is the movement done by eyes to avoid seeing double images, while accommodation is the process by which we maintain a clear image or focus.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Vergence allows our eyes to focus on a distant object, while accommodation allows our eyes to focus on a closer object.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What should an application avoid to reduce fatigue, eye and neck strain?",
+            "answerOptions": [
+              {
+                "answerText": "Angles more than 10 degrees above the horizon, 60 degrees below the horizon and neck rotations more than 45 degrees off center.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Excessive jumping performed by the user.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Setting the user's resting gaze 10 to 20 degrees below the horizon.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following limitations must be accounted for to ensure user comfort?",
+            "answerOptions": [
+              {
+                "answerText": "The file size of an application.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "The number of external connections to peripherals such as controllers and monitors.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The desired range of movement, which actions require physical movement, the user gaze's angle, and arm positions.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Lesson 5: Coordinate Systems and Anchors",
+        "quiz": [
+          {
+            "questionText": "Why are coordinate systems used?",
+            "answerOptions": [
+              {
+                "answerText": "To calculate the variables of an equation.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To add physics to a 3D object.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To express the geometry of a space, as well as determining an object's position and orientation.",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is true?",
+            "answerOptions": [
+              {
+                "answerText": "The orientation of a coordinate system can change depending on the development environment.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Coordinate systems are always the same.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Coordinate systems are not commonly used in XR development.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Anchors allow for objects to stay in place as they are designated points within the spectrum of the real world, rather than inside the application's coordinate system.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Lesson 6: Physics",
+        "quiz": [
+          {
+            "questionText": "Why are physics important in XR development?",
+            "answerOptions": [
+              {
+                "answerText": "So that planet-based applications can have gravity.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "By enabling objects to be controlled and manipulated similarly to objects in the real world, physics allows for experiences that are as close to reality as possible.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Physics enables developers to create XR experiences without code.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following best describes a force?",
+            "answerOptions": [
+              {
+                "answerText": "An interaction that modifies or changes the motion of an object.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "The strength developed by a fitness trainer.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A mystical power that encompasses all living beings, be it from the light or the dark side.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "How are forces applied in XR?",
+            "answerOptions": [
+              {
+                "answerText": "Through telepathy.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "By adding two coordinate planes together to calculate an output.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Through environment changes, user's input, conditions.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Lesson 7: Design and Prototype",
+        "quiz": [
+          {
+            "questionText": "What is the goal of Bodystorming?",
+            "answerOptions": [
+              {
+                "answerText": "To act as an ice-breaker for members of a development team.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To generate and evaluate ideas for XR experiences, beyond the traditional idea of 2D development.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "To fully design applications using real-world objects.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is the main focus of the process of acting?",
+            "answerOptions": [
+              {
+                "answerText": "Experiencing the user's perspective.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Making friends.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "To test out advanced functionalities in a safe environment.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "If there is a need to convey the aesthetic look and feel of an application, what kind of storyboard should be used?",
+            "answerOptions": [
+              {
+                "answerText": "A previously approved storyboard.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A low fidelity storyboard.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A high fidelity storyboard.",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Are prototypes expected to be fully fledged applications?",
+            "answerOptions": [
+              {
+                "answerText": "No, they are expected to be simple designs.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "No, but they should parallel how the users expect to interact with the app.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Yes, and should only include complete objects and no placeholders whatsoever.",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Lesson 8: Environmental Awareness",
+        "quiz": [
+          {
+            "questionText": "What does Spatial Mapping encompass?",
+            "answerOptions": [
+              {
+                "answerText": "Creating a map of space, including planets and their moons.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Creating models of 3D objects.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Creating a 3D map of the real-world environment, often through a continuously updating mesh",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following are all use cases for spatial awareness?",
+            "answerOptions": [
+              {
+                "answerText": "Teleportation, creating buttons, and interacting with controllers",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Occlusion, seeing invisible objects, and voice command",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Placement, occlusion, physics and navigation",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "How does audio improve an immersive experience?",
+            "answerOptions": [
+              {
+                "answerText": "Audio serves no purpose in an immersive experience.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Audio provides the user with the ability to see 3D objects as a wire-frame.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Audio can mimic sounds that the user would expect to hear in a physical environment.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Lesson 9: Hands and Motion Controllers",
+        "quiz": [
+          {
+            "questionText": "What are the three modalities for the hands and motion controllers input model?",
+            "answerOptions": [
+              {
+                "answerText": "There is only one modality, motion controllers.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Motion controllers, static controllers and handheld controllers.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Direct manipulation with hands, point and commit with hands and motion controllers.",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "In the scenario in which the user needs to manipulate a distant object, which modality would do best?",
+            "answerOptions": [
+              {
+                "answerText": "Point and Commit with hands",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Motion controllers",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Direct manipulation with hands",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "If an object is surrounded by markers or handles for your hands to interact with, you can assume you are experiencing",
+            "answerOptions": [
+              {
+                "answerText": "A non-affordance-based manipulation..",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A point and commit manipulation.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "An affordance-based manipulation.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Lesson 10: Hands Free",
+        "quiz": [
+          {
+            "questionText": "A Hands Free model is best for apps that require a user to use one or two hands to interact with their real-world environment?",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which is a benefit of the Hands Free model?",
+            "answerOptions": [
+              {
+                "answerText": "Allows developers to ignore prototyping an app before development.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Prevents hand fatigue.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A user can interact with both hands.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "When should the Gaze and Dwell modalities be used?",
+            "answerOptions": [
+              {
+                "answerText": "When developing apps for devices that can't track the user's eyes or head movements.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "In situations where audio is a viable alternative and the user has freedom to use their hands.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "In scenarios where voice isn't ideal or possible, and the user might be using their hands for a different task.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Lesson 11: Gaze and Commit",
+        "quiz": [
+          {
+            "questionText": "A head-gaze relies on the position of which body part:",
+            "answerOptions": [
+              {
+                "answerText": "Arm",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Eyes",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Head",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Eye-gaze and commit is ideal for which sort of actions?",
+            "answerOptions": [
+              {
+                "answerText": "Slow interactions with 3D objects.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Quick gaze-and-commit actions.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Slow gaze-and-commit actions.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Gaze and commit is a two-step process.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Lesson 12: Hello World",
+        "quiz": [
+          {
+            "questionText": "Which of the following is true about the C# programming language?",
+            "answerOptions": [
+              {
+                "answerText": "C# does not allow comments in code.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "C# is case sensitive.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "If you make a mistake when writing code, you have to delete everything and start over.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "String in C# should begin and end with...",
+            "answerOptions": [
+              {
+                "answerText": "Single quotes",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The # sign",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Double quotes",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Comments in C# are not ignored when the code compiles.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Lesson 13: Variables and Data Types",
+        "quiz": [
+          {
+            "questionText": "What data type should be used when declaring a variable intended to store words?",
+            "answerOptions": [
+              {
+                "answerText": "Integer",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "String literal",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Boolean",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is wrong with the following line of code: int value = 98.5;?",
+            "answerOptions": [
+              {
+                "answerText": "98.5 contains a decimal value and the int data type can only store a whole number.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "The line of code has no errors.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The semicolon (;) is not required.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is of the data type double?",
+            "answerOptions": [
+              {
+                "answerText": "47",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "100.00",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "3",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Lesson 14: Classes and Methods",
+        "quiz": [
+          {
+            "questionText": "Which of the following is true about methods?",
+            "answerOptions": [
+              {
+                "answerText": "Methods are the skeleton of an object and encompass classes, variables and functions.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Methods combine different elements to produce a specific result and are declared inside of a class.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Methods can store multiple types of data and are declared by writing: method.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is false about classes?",
+            "answerOptions": [
+              {
+                "answerText": "A class can only be named MyClass.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "An instance of a class is called object.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "You can create methods and declare variables inside of a class.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What are the return types of the Main method?",
+            "answerOptions": [
+              {
+                "answerText": "void",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "string, bool, double or int",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "void or int",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Lesson 15: Conditional Statements",
+        "quiz": [
+          {
+            "questionText": "When are conditional statements used in programming?",
+            "answerOptions": [
+              {
+                "answerText": "When you're unsure of what to do next with code.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When you want your program to behave differently depending on the input received.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "When trying to simplify the usage of classes and methods.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What are the conditional statements in C#?",
+            "answerOptions": [
+              {
+                "answerText": "if, if/else, else/if and switch",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "if/else and else/if",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "if, if/else, else/if and when",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Switch statements can contain 2 cases.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Lesson 16: Loops",
+        "quiz": [
+          {
+            "questionText": "What are the types of loops in C#",
+            "answerOptions": [
+              {
+                "answerText": "Infinite loop, continuous loop, conditional loop",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "While loop, for loop, do/while loop",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Interior loop, external loop, class loop, method loop",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is the main difference between a while and a for loop?",
+            "answerOptions": [
+              {
+                "answerText": "A for loop will always have a defined number of repetitions, whereas a while loop may not.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "For loops are only usable inside of methods, whereas while loops can be used in classes.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A while loop can only be used once per code block, as opposed to for loops that can be used as many times as needed.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "When is a loop considered an infinite loop?",
+            "answerOptions": [
+              {
+                "answerText": "When a loop has no condition declared.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When a loop's contents add more than a thousand numbers.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When one of the pre-established conditions never becomes false.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Lesson 17: Get Started with Unity",
+        "quiz": [
+          {
+            "questionText": "Only one Unity version can be installed at a time.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the follow is not a platform used for XR development?",
+            "answerOptions": [
+              {
+                "answerText": "ARKit",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "iOS",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "OpenWebXR",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "What is a LTS release?",
+            "answerOptions": [
+              {
+                "answerText": "Length To Ship is a Unity version that can support projects with no planned shipped date.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Long Term Support is a stable Unity version that's best for developing and shipping projects for an extended period.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Low Term Stability is a stable Unity version that's best for short term projects created as a prototype.",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Lesson 18: Unity Editor UI",
+        "quiz": [
+          {
+            "questionText": "What does the Hierarchy window contains?",
+            "answerOptions": [
+              {
+                "answerText": "A list of all assets imported into the project.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A list of all assets in the currently opened scene.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A list of scripts.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following is not a sene navigation tool?",
+            "answerOptions": [
+              {
+                "answerText": "Rotational continuum gizmo",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Center tool",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Scene gizmo",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "The Unity Editor windows can be rearranged to a different layout.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Lesson 19: Project Setup",
+        "quiz": [
+          {
+            "questionText": "Which section in Project Settings is used for assigning the app's name?",
+            "answerOptions": [
+              {
+                "answerText": "Services",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Player",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Quality",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which window is used for changing the build Platform?",
+            "answerOptions": [
+              {
+                "answerText": "Build Settings.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Player Settings.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Platform Preferences.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "OpenXR enables you to seamlessly target only two platforms.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Lesson 20: Scene Objects",
+        "quiz": [
+          {
+            "questionText": "The following is required in a scene to render a 3D environment:",
+            "answerOptions": [
+              {
+                "answerText": "Light, GameObject, Audio",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Script, GameObject, Audio",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Light, Camera, GameObject",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "To create a reusable GameObject, convert the GameObject to a:",
+            "answerOptions": [
+              {
+                "answerText": "Prefab",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "FabGameObject",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Dupe",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "A scene can contain multiple lights.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Lesson 21: Unity Scripting",
+        "quiz": [
+          {
+            "questionText": "A Unity scripts provides the following functions by default:",
+            "answerOptions": [
+              {
+                "answerText": "Start and Append",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Update, Cancel",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Start, Update",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which class enables a variety of ways to work with a GameObject's position?",
+            "answerOptions": [
+              {
+                "answerText": "Transform",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Mathf",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Debug",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "To assign a variable value directly in the Editor, create the variable as public in the script.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Lesson 22: XR Input",
+        "quiz": [
+          {
+            "questionText": "Which of the following provides the status of a finger touching the screen?",
+            "answerOptions": [
+              {
+                "answerText": "Input.TouchScreen",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Touch.Input",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Input.Touch",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "What's the purpose of the InputFeatureUsage?",
+            "answerOptions": [
+              {
+                "answerText": "InputFeatureUsage provides a list of controls that are not available for input for a specified platform.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "InputFeatureUsage is a standard set of physical device controls to access user input on any platform.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "InputFeatureUsage provides a log of each time an input has been selected.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Adaptive controller input can be mapped to various XR devices.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Lesson 23: Physics",
+        "quiz": [
+          {
+            "questionText": "What is the main functionality of adding a Rigidbody component to a GameObject?",
+            "answerOptions": [
+              {
+                "answerText": "To allow interaction with a GameObject.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Enabling physics for a GameObject.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "To brighten a scene.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following statements is false about colliders?",
+            "answerOptions": [
+              {
+                "answerText": "Colliders must be the exact, perfect shape of a GameObject.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Colliders are a rough approximation of the shape of a GameObject.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Unity provides three different colliders, Box, Sphere and Capsule.",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "What is it necessary for a GameObject to be considered collidable?",
+            "answerOptions": [
+              {
+                "answerText": "The GameObject must be declared in code as an integer.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The GameObject must be the child of another GameObject.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "The GameObject must posses a collider component and all areas of the object are contained within the collider.",
+                "isCorrect": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Lesson 24: User Interface",
+        "quiz": [
+          {
+            "questionText": "UI elements within the Canvas are rendered in which order?",
+            "answerOptions": [
+              {
+                "answerText": "Alphabetically",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Creation Order",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Order they appear in the hierarchy",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which component in the Inspector is used to move, resize, or rotate UI elements in a canvas?",
+            "answerOptions": [
+              {
+                "answerText": "Rect Transform",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Canvas Transform",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Transform UI Gizmo",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which interaction component is not provided by Unity?",
+            "answerOptions": [
+              {
+                "answerText": "Finger Drawing",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Slider",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Button",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Lesson 25: Build and Deploy",
+        "quiz": [
+          {
+            "questionText": "When building for the Universal Windows Platform, which IDE is used to build your final application?",
+            "answerOptions": [
+              {
+                "answerText": "Atom",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Sublime",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Visual Studio",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Android apps can be installed manually to your device using the following:",
+            "answerOptions": [
+              {
+                "answerText": "Android Debug Bridge (ADB)",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Android Package Install (API)",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Android App Bridge (AAB)",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Deploying an app to an iOS devices requires XCode.",
+            "answerOptions": [
+              {
+                "answerText": "True",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "False",
+                "isCorrect": "false"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
